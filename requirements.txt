@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+openai==0.28.0
+faiss-cpu
+langchain-community
+sentence-transformers
+google-search-results
+numpy
+pandas
